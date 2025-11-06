@@ -101,4 +101,3 @@ This project is open-source and free to use under the MIT License.
 
 ---
 
-Let me know if you'd like me to generate a logo, add multi-language support, or package this into a web app!
