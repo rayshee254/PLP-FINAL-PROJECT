@@ -2,7 +2,8 @@
 
 ## 🎤 AI Audio Processor
 
-This project uses OpenAI's Whisper and Hugging Face Transformers to transcribe and summarize audio files. The output is displayed in the browser and can be downloaded as a neatly formatted PDF.
+This project uses OpenAI's Whisper for high-accuracy speech-to-text and Hugging Face Transformers (like DistilBART) for summarization.
+It is perfectly suited for students and professionals to record lectures, meetings, or any audio, and instantly receive a full transcript and a concise AI-generated summary.
 
 ---
 
@@ -77,13 +78,13 @@ Use this sample audio to test the app:
 
 ---
 
-### 🧠 Features
+### ✨ Enhanced Features
 
-- Automatic transcription using Whisper
-- AI-powered summarization using DistilBART
-- Bullet-point formatting for clarity
-- PDF export with clean layout
-- Gradio interface with public sharing
+- **Automatic Transcription:** Powered by OpenAI's Whisper for high accuracy, even with technical terminology.
+- **AI-Powered Summarization:** Uses a fine-tuned model (e.g., DistilBART) to generate concise, bullet-point summaries from long lectures.
+- **Live Recording:** Built-in functionality to record audio directly within the app.
+- **PDF Export:** Download a neatly formatted PDF containing both the full transcript and the summary for offline use.
+- **Web Interface:** A user-friendly Gradio app that can be shared via a public URL for easy access from any device.
 
 ---
 
