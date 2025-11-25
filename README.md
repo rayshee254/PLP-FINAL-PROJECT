@@ -56,7 +56,7 @@ Perfect for a quick test or if you don't want to install anything.
 
 Not convinced? Try it immediately with our provided sample audio from a TED Talk. See the magic happen before uploading your own files.
 
-> 🎧 **[Sample Audio File – TED Talk](https://file-examples.com/wp-content/uploads/2017/11/file_example_MP3_700KB.mp3)**
+> 🎧 **[Sample Audio File](https://www.learnoutloud.com/audiobooks/TheLongTail.mp3)**
 
 ---
 
